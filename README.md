@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=soham-chitnis10&show_icons=true&theme=dark&count_private=true)](https://github.com/soham-chitnis10/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=soham-chitnis10&color=green)
+
+
