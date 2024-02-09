@@ -1,6 +1,6 @@
 ### Hi there I'm Soham 👋
 
-#### I'm undergraduate student at BITS Pilani,Goa at Computer Science department. I am intrested in Computer Vision and exploring it in Robotics.
+#### I'm an undergraduate student at BITS Pilani, Goa in Computer Science. I am interested in Computer Vision, Deep Learning, Machine Learning, and Artificial Intelligence.
 
 <!--
 **soham-chitnis10/soham-chitnis10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
